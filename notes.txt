@@ -1,0 +1,5 @@
+7,8,9,11? Underfit/More Epochs
+10 Overfit
+
+.01 .67
+.001 .61
