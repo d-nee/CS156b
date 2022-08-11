@@ -1,4 +1,4 @@
-Team Liquid Death CS156b CheXpert X-Ray Classification Submission
+# Team Liquid Death CS156b CheXpert X-Ray Classification Submission
 
 Legend:
 DIR = means this is a directory
